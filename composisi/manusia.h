@@ -3,6 +3,8 @@
 using namespace std;
 class mahasiswa {
 public:
+	string name;
+	jantung VarJantung;
 	
 	
 };
