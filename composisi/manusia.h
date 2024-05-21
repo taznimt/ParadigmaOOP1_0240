@@ -5,6 +5,10 @@ class mahasiswa {
 public:
 	string name;
 	jantung VarJantung;
+	manusia(string pName)
+		: name(pname) {
+		cout << name << "hiduo\n";
+	}
 	
 	
 };
