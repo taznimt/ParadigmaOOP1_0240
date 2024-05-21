@@ -9,6 +9,9 @@ public:
 		: name(pname) {
 		cout << name << "hiduo\n";
 	}
+	~manusia() {
+		cout << name << "mati\n"
+	}
 	
 	
 };
